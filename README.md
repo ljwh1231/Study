@@ -10,7 +10,7 @@
 #### 장소
 - 종로 더빅스터디룸
 - [링크](http://www.thebigstudy.co.kr/thebigstudy/cafe/index.php)
-- 4회 기준 1인 17,100원
+- 4회 기준 1인 17,100원  
 ![요금](https://i.imgur.com/J2JyluJ.jpg)
 
 #### 횟수
