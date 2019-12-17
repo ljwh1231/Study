@@ -11,7 +11,7 @@
 - 종로 더빅스터디룸
 - [링크](http://www.thebigstudy.co.kr/thebigstudy/cafe/index.php)
 - 4회 기준 1인 17,100원
-![스터디 요금 사진](./price.jpeg)
+![요금](https://i.imgur.com/J2JyluJ.jpg)
 
 #### 횟수
 - 주 3회(월, 수, 금) 오후 7시
