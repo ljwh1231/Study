@@ -11,3 +11,8 @@
     - [1967](https://www.acmicpc.net/problem/1967)
     - [1918](https://www.acmicpc.net/problem/1918)
     - [3090](https://www.acmicpc.net/problem/3090)
+- 참석자
+    - 이정현님 ( 지각 )
+    - 임희제님
+    - 김규빈님
+    - 유정현님
