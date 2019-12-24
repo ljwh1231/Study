@@ -1,51 +1,39 @@
 #include <iostream>
 #include <vector>
-#include <map>
+#include <cstring>
 
 using namespace std;
 
-map<int, vector<int> > tree;
+int tree[1000001][2];
 
-void postorder(int i) {
-    if(tree[i][1] != 0) postorder(tree[i][1]);
-    if(tree[i][2] != 0) postorder(tree[i][2]);
-    cout << i << "\n";
+void postorder(int root) {
+    if(tree[root][0] != 0) postorder(tree[root][0]);
+    if(tree[root][1] != 0) postorder(tree[root][1]);
+    cout << root << "\n";
 }
 
 int main() {
-    vector<int> pre;
-    int tmp;
-    while(cin >> tmp) pre.push_back(tmp);
-
-    for(int i = 0; i < pre.size(); i++) {
-        if(tree.empty() || tree.count(pre[i]) == 0) {
-            vector<int> temp(3, 0);
-            tree[pre[i]] = temp;
-        }
-        if(i == 0) {
-            tree[pre[i]][0] = 0;
-            continue;
-        }
-        if(pre[i] < pre[i - 1]) {
-            tree[pre[i]][0] = pre[i - 1];
-            tree[pre[i - 1]][1] = pre[i];
-        } else {
-            int tempP = pre[i - 1];
-            while(tempP != 0 && (tree[tempP][0] < pre[i])) {
-                tempP = tree[tempP][0];
-            }
-            if(tempP == 0) {
-                tempP = pre[0];
-                while(tree[tempP][2] != 0) tempP = tree[tempP][2];
-                tree[tempP][2] = pre[i];
-                tree[pre[i]][0] = tempP;
+    int cur;
+    int root;
+    cin >> root;
+    while(cin >> cur) {
+        int start = root;
+        while(true) {
+            if(start > cur) {
+                if(tree[start][0] != 0) start = tree[start][0];
+                else {
+                    tree[start][0] = cur;       
+                    break;
+                }
             } else {
-                tree[tempP][2] = pre[i];
-                tree[pre[i]][0] = tempP;
+                if(tree[start][1] != 0) start = tree[start][1];
+                else {
+                    tree[start][1] = cur;
+                    break;
+                }
             }
-        }    
+        }
     }
-    
-    postorder(pre[0]);
+    postorder(root);
     return 0;
 }
