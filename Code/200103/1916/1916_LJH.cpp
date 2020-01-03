@@ -12,12 +12,6 @@ struct compare {
     }
 };
 
-int n, m;
-vector< pair<int, int> > graph[1001];
-int cost[1001];
-
-priority_queue< pair<int, int>, vector< pair<int, int> >, compare > pq;
-
 void d(int s, int c) {
     pq.push(make_pair(s, c));
     while(!pq.empty()) {
@@ -31,6 +25,11 @@ void d(int s, int c) {
         pq.pop();
     }
 }
+
+int n, m;
+vector< pair<int, int> > graph[1001];
+int cost[1001];
+priority_queue< pair<int, int>, vector< pair<int, int> >, compare > pq;
 
 int main() {
     ios::sync_with_stdio(false);
