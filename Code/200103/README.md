@@ -1,13 +1,13 @@
 # 191227 과제 문제 디렉토리
 - 코딩 스터디
-    - [1916](icpc.me/1916)
+    - [1916](https://acmicpc.net/problem/1916)
 - 숙제
-    - [6118](icpc.me/6118)
-    - [4485](icpc.me/4485)
-    - [1261](icpc.me/1261)
-    - [10282](icpc.me/10282)
-    - [7682](icpc.me/7682)
-    - [1738](icpc.me/1738)
+    - [6118](https://acmicpc.net/problem/6118)
+    - [4485](https://acmicpc.net/problem/4485)
+    - [1261](https://acmicpc.net/problem/1261)
+    - [10282](https://acmicpc.net/problem/10282)
+    - [7682](https://acmicpc.net/problem/7682)
+    - [1738](https://acmicpc.net/problem/1738)
 - 참석자
     - 이정현님
     - 유정현님

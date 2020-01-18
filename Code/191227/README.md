@@ -1,14 +1,14 @@
 # 191227 과제 문제 디렉토리
 - 코딩 스터디
-    - [2455](icpc.me/2455)
-    - [14499](icpc.me/14499)
+    - [2455](https://acmicpc.net/problem/2455)
+    - [14499](https://acmicpc.net/problem/14499)
 - 숙제
-    - [14501](icpc.me/14501)
-    - [14502](icpc.me/14502)
-    - [14500](icpc.me/14500)
-    - [17779](icpc.me/17779)
-    - [17143](icpc.me/17143)
-    - [14890](icpc.me/14890)
+    - [14501](https://acmicpc.net/problem/14501)
+    - [14502](https://acmicpc.net/problem/14502)
+    - [14500](https://acmicpc.net/problem/14500)
+    - [17779](https://acmicpc.net/problem/17779)
+    - [17143](https://acmicpc.net/problem/17143)
+    - [14890](https://acmicpc.net/problem/14890)
 - 참석자
     - 이정현님
     - 임희제님

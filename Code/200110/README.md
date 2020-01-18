@@ -1,15 +1,15 @@
 # 200110 과제 문제 디렉토리
 - 코딩 스터디
-    - [2529](icpc.me/2529)
-    - [2352](icpc.me/2352)
+    - [2529](https://acmicpc.net/problem/2529)
+    - [2352](https://acmicpc.net/problem/2352)
 - 숙제
-    - [2875](icpc.me/2875)
-    - [1543](icpc.me/1543)
-    - [2812](icpc.me/2812)
-    - [1138](icpc.me/1138)
-    - [2437](icpc.me/2437)
-    - [1826](icpc.me/1826)
-    - [1114](icpc.me/1114)
+    - [2875](https://acmicpc.net/problem/2875)
+    - [1543](https://acmicpc.net/problem/1543)
+    - [2812](https://acmicpc.net/problem/2812)
+    - [1138](https://acmicpc.net/problem/1138)
+    - [2437](https://acmicpc.net/problem/2437)
+    - [1826](https://acmicpc.net/problem/1826)
+    - [1114](https://acmicpc.net/problem/1114)
 - 참석자
     - 이정현님
     - 김규빈님

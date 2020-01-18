@@ -1,15 +1,15 @@
 # 200117 과제 문제 디렉토리
 - 코딩 스터디
-    - [1992](icpc.me/1992)
-    - [10830](icpc.me/10830)
+    - [1992](https://acmicpc.net/problem/1992)
+    - [10830](https://acmicpc.net/problem/10830)
 - 숙제
-    - [11729](icpc.me/11729)
-    - [1780](hicpc.me/1780)
-    - [10827](icpc.me/10827)
-    - [1074](icpc.me/1074)
-    - [2132](icpc.me/2132)
-    - [10830](icpc.me/10830)
-    - [2749](icpc.me/2749)
+    - [11729](https://acmicpc.net/problem/11729)
+    - [1780](https://acmicpc.net/problem/1780)
+    - [10827](https://acmicpc.net/problem/10827)
+    - [1074](https://acmicpc.net/problem/1074)
+    - [2132](https://acmicpc.net/problem/2132)
+    - [10830](https://acmicpc.net/problem/10830)
+    - [2749](https://acmicpc.net/problem/2749)
 - 참석자
     - 이정현님
     - 김규빈님
