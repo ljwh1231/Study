@@ -8,7 +8,6 @@
     - [10827](https://acmicpc.net/problem/10827)
     - [1074](https://acmicpc.net/problem/1074)
     - [2132](https://acmicpc.net/problem/2132)
-    - [10830](https://acmicpc.net/problem/10830)
     - [2749](https://acmicpc.net/problem/2749)
 - 참석자
     - 이정현님
